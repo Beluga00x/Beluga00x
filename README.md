@@ -22,4 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Beluga00x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Beluga00x&icon=0&color=1)](https://visitcount.itsvg.in)
+
